@@ -38,7 +38,7 @@ public class Main {
                     System.out.println();
                     System.out.println("A: " + sortAndPrintSet(A));
                     System.out.println("B: " + sortAndPrintSet(B));
-                    System.out.println("union: " + sortAndPrintSet(union));
+                    System.out.println("Union: " + sortAndPrintSet(union));
 
                     break;
                 case 2:
